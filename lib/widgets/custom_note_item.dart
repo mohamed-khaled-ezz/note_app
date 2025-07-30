@@ -18,7 +18,7 @@ class NoteItem extends StatelessWidget {
             title: Padding(
               padding: const EdgeInsets.only(bottom: 16),
               child: Text(
-                'flutter tips',
+                'Flutter Tips',
                 style: TextStyle(color: Colors.black, fontSize: 26),
               ),
             ),
